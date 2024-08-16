@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harish061022
+- 👋 Hi, I’m @Harish
 -SDET | Automation Enthusiast | Java, Selenium, Cypress, Appium | Building scalable test frameworks
 
 <!---
